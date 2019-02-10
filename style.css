@@ -59,6 +59,14 @@ h5 {
     margin-right: auto;
 }
 
+.cstudy {
+    width: 80%;
+    height: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .card {
     /* margin-top: 5%; */
     padding: 2%;
